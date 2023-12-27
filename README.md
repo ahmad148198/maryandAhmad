@@ -3,19 +3,22 @@ The site presents a variety of books... It allows the user who has an account on
 ## Screenshots:
 <p>
   <kbd><img src="HOME.png" width="350" height="450"/></kbd>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <p>
   <kbd><img src="SIGNIN.png" width="350" height="450"/></kbd>
-
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <p>
   <kbd><img src="SIGNUP.png" width="350" height="250"/></kbd>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <p>
   <kbd><img src="ENDOFPAGE.png" width="350" height="250"/></kbd>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ## Website Link :
